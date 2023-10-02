@@ -24,6 +24,7 @@ Vrinda store wants to create an annual sales report for year 2022.So that, Vrind
 # Final Conclusion to improve store sales :
 Target women customers of age group (30-49 Yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
+![image](https://github.com/akshata-12344/Vrinda_Store_Annual_Report2022/assets/125961910/9a30addf-1c5f-46d2-88b5-f5b58acd5fe3)
 
 
 
